@@ -1,4 +1,4 @@
-# allure-local-history-bash
+# local-allure-history-trends-bash
 Script to generate local allure reports with history trends.
 
 ## Usage
