@@ -35,3 +35,8 @@ You can jump back through build history trend
 
 - `custom-results` - from custom alluredir; `default='allure-results'`
 - `custom-reports` - to custom allure root tree directory; `default='allure'`
+
+## More
+You can add this script execution to teardown after all your tests so you wouldn't need to 
+execute it 
+manually.
